@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignore build directory
+/build/
+
+# Ignore egg-info directory
+/videotoascii.egg-info/
+
+# Ignore Python compiled files
+/video_to_ascii/__pycache__/
